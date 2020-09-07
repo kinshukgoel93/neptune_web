@@ -1,0 +1,1 @@
+export const isLoginSuccessful = state => state.islogin.user_login_succesfull

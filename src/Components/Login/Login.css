@@ -1,0 +1,26 @@
+.user-sign-in-container {
+  height: 100vh;
+  overflow: hidden;
+}
+.user-sign-in-container .signin-left-container {
+  padding: 0px 0px 0px 0px;
+}
+.user-sign-in-container .signin-left-container .signin-image {
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+.user-sign-in-container .signin-right-container {
+  background: #fff;
+}
+.login-content .sign-in .row h6 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.login-content .sign-in .row .links {
+  padding-top: 20px;
+}
+.login-content .sign-in .row .logo {
+  width: 160px;
+  height: auto;
+}

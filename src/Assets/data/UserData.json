@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "emailId": "kinshukgoel1993@gmail.com",
+            "password": "kinshuk",
+            "name":"Kinshuk Goel",
+            "otp":"12345"
+        }
+    
+    ]
+}
