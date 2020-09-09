@@ -5,6 +5,7 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import { Provider } from "react-redux";
 import store from "./Redux/store";
 import { withRouter } from "react-router";
+import './Assets/css/bootstrap.min.css';
 import LoginLayout from './Components/Login/LoginLayout';
 import Viewboard from "./Components/Viewboard/Viewboard";
 // import Middleware from './Components/Login/Middleware'

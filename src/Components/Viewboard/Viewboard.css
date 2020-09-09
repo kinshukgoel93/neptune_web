@@ -1,1 +1,20 @@
-    
+.fix-flight-form {
+    margin-top: 50px;
+    box-shadow: 2px 2px 10px rgba(50,50,50,0.5);
+    padding: 15px 20px;
+    border-radius: 10px;
+    position: fixed;
+    width: 100%;
+    min-width: 300px;
+    max-width: 430px;
+    height: 70%;
+}
+.selc-flight-options li {
+    list-style: none;
+    display: block;
+    float: left;
+    margin: 5px 10px;
+}
+.booking-form {
+    margin-top: 25px;
+}
